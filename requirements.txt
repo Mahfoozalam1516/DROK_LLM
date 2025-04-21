@@ -1,0 +1,4 @@
+openai
+tailwindcss
+postcss
+autoprefixer
